@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      zo44
 HostName                       big06.seas.upenn.edu
-ProcessIdentifier              21831
-ProcessCreationTime_UTC        1743475899
-ProcessCreationTime_Readable   Mon Mar 31 22:51:39 2025 EDT
+ProcessIdentifier              330
+ProcessCreationTime_UTC        1743481389
+ProcessCreationTime_Readable   Tue Apr  1 00:23:09 2025 EDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /mnt/castor/seas_home/z/zo44/cadence616/ESE6680_PJ2/TRACK_AND_HOLD/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Mon Mar 31 23:07:53 2025 EDT
+FilePathUsedToEditLock         /mnt/castor/seas_home/z/zo44/cadence616/ESE6680_PJ2/TWO_STAGE_OPAMP/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Tue Apr  1 00:30:58 2025 EDT

@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Tue Apr  1 00:23:09 2025 EDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /mnt/castor/seas_home/z/zo44/cadence616/ESE6680_PJ2/TRACK_AND_HOLD/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Tue Apr  1 00:28:56 2025 EDT
+FilePathUsedToEditLock         /mnt/castor/seas_home/z/zo44/cadence616/ESE6680_PJ2/__TEST_TRACK_AND_HOLD_WITH_CLOCK__/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Apr  1 00:23:44 2025 EDT
